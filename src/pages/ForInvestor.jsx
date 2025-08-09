@@ -1,7 +1,7 @@
 import React from 'react'
 import Herosection from '../component/Herosection';
 
-import Bottom from '../component/bottom';
+import Bottom from '../component/Bottom';
 import { Link } from 'react-router-dom';
 
 const ForInvestor = () => {

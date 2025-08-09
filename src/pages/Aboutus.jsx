@@ -2,7 +2,7 @@ import React from 'react'
 import Herosection from '../component/Herosection';
 
 import About from '../component/About';
-import Bottom from '../component/bottom';
+import Bottom from '../component/Bottom';
 
 const Aboutus = () => {
   return (

@@ -4,7 +4,7 @@ import { useState } from 'react';
 import emailjs from "@emailjs/browser";
 import Footer from '../component/Footer';
 import Herosection from '../component/Herosection';
-import Bottom from '../component/bottom';
+import Bottom from '../component/Bottom';
 
 const InputField = ({ label, value, onChange, placeholder, name, type }) => (
   <label className="flex flex-col">
