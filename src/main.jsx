@@ -7,7 +7,7 @@ import { BrowserRouter } from "react-router-dom";
 
 
 createRoot(document.getElementById("root")).render(
-  <BrowserRouter basename="/icma">
+  <BrowserRouter basename="/icmay">
      <StrictMode>
       <App />
     </StrictMode>
