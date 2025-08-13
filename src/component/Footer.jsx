@@ -11,8 +11,8 @@ const Footer = () => {
           </h1>
           <p>ICMA Fundación</p>
           <p>NIF: N0305013E</p>
-          <p>Avda. Diagonal 449, 4º, </p>
-          <p>08036 Barcelona, Spain</p>
+          <p>Lepant 270, 08013,</p>
+          <p>Barcelona, Spain</p>
           
         </div>
         <div className="flex text-black flex-col items-center ">

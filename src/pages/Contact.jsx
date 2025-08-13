@@ -160,7 +160,7 @@ const Contact = () => {
           </h1>
           <p>ICMA Fundación</p>
           <p>NIF: N0305013E</p>
-          <p>Lepant 270, 08013,  </p>
+          <p>Lepant 270, 08013,</p>
           <p>Barcelona, Spain</p>
           
         </div>
