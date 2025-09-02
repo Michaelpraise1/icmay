@@ -16,7 +16,8 @@ const About = () => {
       </p>
 
       <p>
-      Our commitment to clear communication throughout the entire funding process sets us apart. That's why, after the pitch book is finalized, we operate exclusively on a "no introduction - no cost" basis. Icma's years of experience allow us to understand the needs of inventors, investors, and entrepreneurs. Members play a critical role; providing funds, strategies, insights, and practical wisdom for wherever you are on your funding roadmap. They are big thinkers, risk takers, long term players, great connectors, game changers and change makers.
+      Our commitment to clear communication throughout the entire funding process sets us apart. That's why, after the Pitchbook is finalized, we operate exclusively on a "no introductions - limited fees" basis only. Icma's years of experience allow us to understand the needs of inventors, investors, and entrepreneurs. Members play a critical role; providing funds, strategies, insights, and practical wisdom for wherever you are on your funding roadmap. They are big thinkers, risk takers, long term players, great connectors, game changers and change makers.
+
       </p>
 
       <p>

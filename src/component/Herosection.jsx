@@ -30,9 +30,18 @@ const Herosection = () => {
             <Link to="/ma" smooth={true} duration={500}>
               <li className="text-gray-400 hover:text-purple-600 ">M&A</li>
             </Link>
+            <a href="https://research-and-innovation.ec.europa.eu/index_en">
+              <li className="text-gray-400 hover:text-purple-600 ">RAIE</li>
+            </a>
+            <a href="https://swisschamberofcommerce.ch/">
+              <li className="text-gray-400 hover:text-purple-600 ">SCCN</li>
+            </a>
+            <a href="https://www.oecd.org/en/topics/sub-issues/sustainable-finance.html">
+              <li className="text-gray-400 hover:text-purple-600 ">OECD</li>
+            </a>
             
             <Link to="/forinvestor" smooth={true} duration={500}>
-              <li className="text-gray-400 hover:text-purple-600 ">For Investor</li>
+              <li className="text-gray-400 hover:text-purple-600 " href="">For Investor</li>
             </Link>
             
             <Link to="/contact" smooth={true} duration={500}>
@@ -83,6 +92,15 @@ const Herosection = () => {
                 M&A
               </li>
               </Link>
+              <a href="https://research-and-innovation.ec.europa.eu/index_en">
+               <li className="text-gray-400 hover:text-purple-600 ">RAIE</li>
+              </a>
+              <a href="https://swisschamberofcommerce.ch/">
+                <li className="text-gray-400 hover:text-purple-600 ">SCCN</li>
+              </a>
+              <a href="https://www.oecd.org/en/topics/sub-issues/sustainable-finance.html">
+               <li className="text-gray-400 hover:text-purple-600 ">OECD</li>
+              </a>
               <Link to="/forinvestor" smooth={true} duration={500}>
               <li className="text-gray-400 hover:text-white  border-b-2 border-white px-6 py-2">
                 Investor

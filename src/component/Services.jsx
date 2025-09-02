@@ -11,7 +11,7 @@ const Services = () => {
         <ServiceProps
           id="01"
           title="What We Do"
-          desc="We empower entrepreneurs to secure capital in the dynamic Venture Capital and Angel Investor landscape. Focused on raising early-stage, seed, and Series A funding, ranging from €100k till €10M. We help you navigate the funding terrain; we're proud to place you in the skillet and capable hands of our professional Swiss partner, with over 25 years of funding experience and a proven track record. Connected to valuable potential investors who align with your needs, and strategic partners who fuel your growth."
+          desc="We empower entrepreneurs to secure sustainable finance in the dynamic Venture Capital and Angel Investor landscape. Focused on raising seed, and Series A funding, ranging from €100k till €100M. We help you navigate the funding terrain; we're proud to place you in the skillet and capable hands of our professional European partners, with over 25 years of funding experience and a proven track record. Connected to valuable potential investors who align with your needs, and strategic partners who fuel your growth."
          
           image="https://websitedemos.net/web-developer-04/wp-content/uploads/sites/1481/2023/07/service-01.jpg"
         />

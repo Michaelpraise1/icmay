@@ -39,7 +39,7 @@ const FundraisingSec = () => {
           <FundraisingProps
             id="04"
             title="Investor Outreach"
-            desc="After finalizing preparations and communication strategy, we arrange the first video call with our Swiss partner - founded in 1933, giving you the opportunity to share your story. Our role is to facilitate introductions and observe in the background. "
+            desc="After finalizing preparations and communication strategy, we arrange the first video call with our European partner, giving you the opportunity to share your story. Our role is to facilitate introductions and observe in the background. "
 
           />
 
