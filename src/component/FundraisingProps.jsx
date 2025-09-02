@@ -10,7 +10,7 @@ const FundraisingProps = ({ id, title, desc }) => {
 
         
       </div>
-      <div className="lg:w-1/2 space-x-3 items-center">
+      <div className="lg:w-1/2 space-x-2 items-center">
         {/* <img src={image} /> */}
         <p className="text-lg whitespace-pre-line">{desc}</p>
       </div>

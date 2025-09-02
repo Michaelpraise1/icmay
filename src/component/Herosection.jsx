@@ -92,13 +92,13 @@ const Herosection = () => {
                 M&A
               </li>
               </Link>
-              <a href="https://research-and-innovation.ec.europa.eu/index_en">
+              <a href="https://research-and-innovation.ec.europa.eu/index_en" target="_blank" rel="noopener noreferrer">
                <li className="text-gray-400 hover:text-white  border-b-2 border-white px-6 py-2 ">RAIE</li>
               </a>
-              <a href="https://swisschamberofcommerce.ch/">
+              <a href="https://swisschamberofcommerce.ch/" target="_blank" rel="noopener noreferrer">
                 <li className="text-gray-400 hover:text-white  border-b-2 border-white px-6 py-2">SCCN</li>
               </a>
-              <a href="https://www.oecd.org/en/topics/sub-issues/sustainable-finance.html">
+              <a href="https://www.oecd.org/en/topics/sub-issues/sustainable-finance.html" target="_blank" rel="noopener noreferrer">
                <li className="text-gray-400 hover:text-white  border-b-2 border-white px-6 py-2 ">OECD</li>
               </a>
               <Link to="/forinvestor" smooth={true} duration={500}>

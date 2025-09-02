@@ -30,7 +30,7 @@ const FundraisingSec = () => {
           <FundraisingProps
             id="03"
             title="Pitchbook"
-            desc="There are two main types of pitchbooks. There's the main pitchbook, which contains all the key characteristics of the company, and one that details a specific deal, such as an initial public offering (IPO) or a company's investment product. For an accredited investor, it includes information such as the company's financial strength and biographical information about the management team."
+            desc="There are two main types of Pitchbooks. There's the main Pitchbook, which contains all the key characteristics of the company, and one that details a specific deal, such as an initial public offering (IPO) or a company's investment product. For an accredited investor, it includes information such as the company's financial strength and biographical information about the management team."
             
           />
 
