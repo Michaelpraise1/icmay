@@ -30,13 +30,13 @@ const Herosection = () => {
             <Link to="/ma" smooth={true} duration={500}>
               <li className="text-gray-400 hover:text-purple-600 ">M&A</li>
             </Link>
-            <a href="https://research-and-innovation.ec.europa.eu/index_en">
+            <a href="https://research-and-innovation.ec.europa.eu/index_en" target="_blank" rel="noopener noreferrer">
               <li className="text-gray-400 hover:text-purple-600 ">RAIE</li>
             </a>
-            <a href="https://swisschamberofcommerce.ch/">
+            <a href="https://swisschamberofcommerce.ch/" target="_blank" rel="noopener noreferrer">
               <li className="text-gray-400 hover:text-purple-600 ">SCCN</li>
             </a>
-            <a href="https://www.oecd.org/en/topics/sub-issues/sustainable-finance.html">
+            <a href="https://www.oecd.org/en/topics/sub-issues/sustainable-finance.html" target="_blank" rel="noopener noreferrer">
               <li className="text-gray-400 hover:text-purple-600 ">OECD</li>
             </a>
             
