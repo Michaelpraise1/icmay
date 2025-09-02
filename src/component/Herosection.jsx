@@ -41,7 +41,7 @@ const Herosection = () => {
             </a>
             
             <Link to="/forinvestor" smooth={true} duration={500}>
-              <li className="text-gray-400 hover:text-purple-600 " href="">For Investor</li>
+              <li className="text-gray-400 hover:text-purple-600 " href="">For Investors</li>
             </Link>
             
             <Link to="/contact" smooth={true} duration={500}>
