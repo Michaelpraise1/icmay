@@ -103,7 +103,7 @@ const Herosection = () => {
               </a>
               <Link to="/forinvestor" smooth={true} duration={500}>
               <li className="text-gray-400 hover:text-white  border-b-2 border-white px-6 py-2">
-                Investor
+                For Investors
               </li>
               </Link>
 
