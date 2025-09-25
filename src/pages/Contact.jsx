@@ -111,7 +111,7 @@ const Contact = () => {
         
 
         <form ref={formRef} onSubmit={handleSubmit} className="mt-10 bg-blend-overlay ml-20 flex flex-col lg:gap-8 gap-2 mb-4">
-          <p className='text-base '>At icma, we believe that every interaction is an opportunity to inspire change and cultivate growth within our community. Whether you’re a visionary entrepreneur, investor, or a curious explorer, we invite you to reach out and share your thoughts, ideas, or questions.</p>
+          <p className='text-base '>ICMA is a not-for-profit foundation (Stichting) under the Dutch Civil Code. The foundation is headquartered in Rijswijk, with offices in Barcelona and Groningen.</p>
           <InputField
             label="Your Name"
             name="name"
