@@ -8,6 +8,7 @@ import { Routes, Route } from 'react-router-dom';
 // import Aboutus from "./pages/Aboutus";
 // import ForInvestor from "./pages/ForInvestor";
 import { Suspense } from "react";
+import Privacy from "./pages/Privacy";
 const Homepage = React.lazy(() => import('./pages/Homepage'));
 const Contact = React.lazy(() => import('./pages/Contact'));
 const Fundraising = React.lazy(() => import('./pages/Fundraising'));
@@ -57,7 +58,11 @@ function App() {
             <Suspense fallback={<div className="flex items-center justify-center h-full w-full "><div className="w-10 h-10 border-4 border-blue-500 border-dashed rounded-full animate-spin"></div></div>}>
               <ForInvestor />
               </Suspense>} />
-        
+           <Route path="/privacy" element={
+            <Suspense fallback={<div className="flex items-center justify-center h-full w-full "><div className="w-10 h-10 border-4 border-blue-500 border-dashed rounded-full animate-spin"></div></div>}>
+             <Privacy/>
+              </Suspense>} />
+              
         
        
       

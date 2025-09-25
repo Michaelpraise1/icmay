@@ -5,6 +5,7 @@ import emailjs from "@emailjs/browser";
 import Footer from '../component/Footer';
 import Herosection from '../component/Herosection';
 import Bottom from '../component/Bottom';
+import { Link } from 'react-router-dom';
 
 const InputField = ({ label, value, onChange, placeholder, name, type }) => (
   <label className="flex flex-col">
@@ -174,6 +175,10 @@ const Contact = () => {
             <a className="  underline" href="#">
               0034 6242 55 208
             </a>
+            <Link to="/privacy" smooth={true} duration={500}>
+            <a>Privacy Policy</a>
+            </Link>
+            
           </div>
           </div>
         

@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 
 const Footer = () => {
@@ -25,6 +26,10 @@ const Footer = () => {
             <a className="  underline" href="#">
               0034 6242 55 208
             </a>
+            <Link to="/privacy" smooth={true} duration={500} >
+            <a>Privacy Policy </a>
+            </Link>
+            
           </div>
 
         {/* <div className="flex gap-5 text-2xl text-white ">

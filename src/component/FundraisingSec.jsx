@@ -13,8 +13,8 @@ const FundraisingSec = () => {
         <div>
         <FundraisingProps
           id= "01"
-          title="Consultation"
-          desc="We offer video consultations, meetings with a funding expert and/or finance professional for advice. Free appointments with specialists who can provide you with more funding possibilities and insights."
+          title="Impact"
+          desc="Green, social, and sustainable financing involves raising funds for projects or companies that generate a positive effect on the environment and society, in addition to great economic benefits! More and more European investors and financial institutions are prioritizing these practices. They do so due to the growing demand for transparency and accountability. Companies that adopt this approach not only gain easy access to capital, but also contribute to global goals such as reducing emissions or improving working conditions. This shift reflects a new way of understanding risk and return. Investing in sustainability helps mitigate climate and regulatory risks, while opening up new opportunities in emerging markets and high potential sectors. "
           image="https://websitedemos.net/web-developer-04/wp-content/uploads/sites/1481/2023/07/service-01.jpg"
           />
 

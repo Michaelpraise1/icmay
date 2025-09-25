@@ -16,7 +16,7 @@ const About = () => {
       </p>
 
       <p>
-      Our commitment to clear communication throughout the entire funding process sets us apart. That's why, after the Pitchbook is finalized, we operate exclusively on a "no introductions - limited fees" basis only. Icma's years of experience allow us to understand the needs of inventors, investors, and entrepreneurs. Members play a critical role; providing funds, strategies, insights, and practical wisdom for wherever you are on your funding roadmap. They are big thinkers, risk takers, long term players, great connectors, game changers and change makers.
+      Our commitment to clear communication throughout the entire process sets us apart, that's why its necessary to start every new funding procedure by drawing up a professional Pitchbook. It serves as a comprehensive guide, outlining the investment opportunity, its associated risks, and critical details that our European partners need to make informed decisions. We operate exclusively on a low-cost basis, meaning there are no additional costs owed to icma fundación after the Pitchbook is produced. Creating a spectacular, high resolution, ready to print Pitchbook costs a one-time fee of €1.650, payable in two equal instalments, with a 100% not satisfied money back guarantee! Icma's years of experience allow us to understand the needs of inventors, investors, entrepreneurs, and companies. Our partners play a critical role; providing funds, strategies, insights, and practical wisdom for wherever you are on your funding roadmap. They are big thinkers, risk takers, long term players, great connectors, game changers and change makers.
 
       </p>
 
