@@ -31,8 +31,11 @@ const ForInvestor = () => {
         
         <h2 className='text-xl font-semibold'>Efficient Matchmaking</h2>
         <p className='text-center mb-5'>Benefit from our 25+ years of experience in fundraising and investment banking.</p>
+        </div>
         
+      <div className='flex flex-col items-center space-y-3'>
 
+      
         <h2 className='text-2xl font-semibold'>Trustworthy Interactions</h2>
         <p className='text-center'>Our team stands for transparency, honesty, and integrity. We work tirelessly to create meaningful relationships between investors and entrepreneurs.</p>
       </div>
