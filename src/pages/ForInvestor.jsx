@@ -26,7 +26,7 @@ const ForInvestor = () => {
         <h2 className='text-2xl font-semibold'>Our Promise</h2>
         <p className='text-center'>As a member of our investor network, you can expect</p>
 
-        <h2 className='text-xl text-center font-semibold'>Curated and tailored Opportunities:</h2>
+        <h2 className='text-xl text-center font-semibold'>Curated and tailored Opportunities</h2>
         <p className='text-center'>We will bring you investment opportunities that fit your preferred industry, phase of business, and geographical area. These opportunities are always curated and checked by our team.</p>
         
         <h2 className='text-xl font-semibold'>Efficient Matchmaking</h2>
