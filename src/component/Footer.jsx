@@ -12,7 +12,7 @@ const Footer = () => {
           </h1>
           <p>ICMA Fundación</p>
           <p>NIF: N0305013E</p>
-          <p>KVK: 27372151</p>
+          <p>CCI: 27372151</p>
           <p>Lepant 270, 08013,</p>
           <p>Barcelona, Spain</p>
           
