@@ -21,13 +21,13 @@ const Herosection = () => {
         </div>
         <div>
           <ul className="flex text-lg font-semibold gap-9 transition-all duration-200">
-            <Link to="/" smooth={true} duration={500}>
+            <Link to="/" smooth="true" duration={500}>
               <li className="text-gray-400 hover:text-purple-600 ">Home</li>
             </Link>
-            <Link to="/fundraising" smooth={true} duration={500}>
+            <Link to="/fundraising" smooth="true" duration={500}>
             <li className="text-gray-400 hover:text-purple-600 ">Fundraising</li>
             </Link>
-            <Link to="/ma" smooth={true} duration={500}>
+            <Link to="/ma" smooth="true" duration={500}>
               <li className="text-gray-400 hover:text-purple-600 ">M&A</li>
             </Link>
             <a href="https://research-and-innovation.ec.europa.eu/index_en" target="_blank" rel="noopener noreferrer">
@@ -41,7 +41,7 @@ const Herosection = () => {
             </a>
             
             <Link to="/forinvestor" smooth={true} duration={500}>
-              <li className="text-gray-400 hover:text-purple-600 " href="">For Investors</li>
+              <li className="text-gray-400 hover:text-purple-600 " >For Investors</li>
             </Link>
             
             <Link to="/contact" smooth={true} duration={500}>

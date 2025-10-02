@@ -8,9 +8,15 @@ import Weem from "../component/Weem";
 import Hero from "../component/Hero";
 import Bottom from "../component/Bottom";
 
+
 const Homepage = () => {
   return (
-    <div className=" bg-white">
+    <>
+    
+      {/* <meta name="description"
+      content=""
+      /> */}
+      <div className=" bg-white">
       <Herosection />
       <Hero/>
       {/* <About /> */}
@@ -22,6 +28,10 @@ const Homepage = () => {
       <Bottom/>
       <FloatButton.BackTop />
     </div>
+    
+    
+    </>
+    
   );
 };
 
