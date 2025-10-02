@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://sitemaps.org/schemas/sitemap/0.9">
-  <url>https://icma.fund/</url>
-  <priority>1.0</priority>
-  <changefreq>weekly</changefreq>
+  <url>
+    <loc>https://icma.fund/</loc>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
+  
 
 </urlset>
