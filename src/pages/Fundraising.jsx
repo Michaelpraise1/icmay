@@ -3,11 +3,17 @@ import Herosection from '../component/Herosection';
 import FundraisingSec from '../component/FundraisingSec';
 import { Link } from 'react-router-dom';
 import Bottom from '../component/Bottom';
+import { Helmet } from 'react-helmet-async';
 
 
 const Fundraising = () => {
   return (
    <>
+   <Helmet>
+    <title>Fundraising - ICMA</title>
+
+    <meta name="description" content="Discover effective fundraising strategies with ICMA. Learn how to secure capital for your business growth through our expert guidance and services." />
+   </Helmet>
     <Herosection/>
     <section className="relative h-[60vh] bg-cover bg-center bg-[url('https://fundmystartup.vc/wp-content/uploads/2023/03/venture_15.jpg')] text-white">
         <div className=" z-0 absolute inset-0 bg-black bg-opacity-70"></div>

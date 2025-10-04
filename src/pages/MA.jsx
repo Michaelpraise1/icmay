@@ -3,10 +3,15 @@ import Herosection from '../component/Herosection';
 import Merger from '../component/Merger';
 import { Link } from 'react-router-dom';
 import Bottom from '../component/Bottom';
+import { Helmet } from "react-helmet-async";
 
 const MA = () => {
   return (
     <>
+    <Helmet>
+       <title>MA - ICMA</title>
+       <meta name="description" content="Welcome to ICMA, your partner in innovative financial solutions. Explore our services and join our network today!" />
+    </Helmet>
     <Herosection/>
     <section className="relative h-[60vh] bg-cover bg-center bg-[url('https://fundmystartup.vc/wp-content/uploads/2023/03/venture_07.jpg')] text-white">
         <div className=" z-0 absolute inset-0 bg-black bg-opacity-70"></div>

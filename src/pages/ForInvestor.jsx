@@ -3,10 +3,15 @@ import Herosection from '../component/Herosection';
 
 import Bottom from '../component/Bottom';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 
 const ForInvestor = () => {
   return (
     <>
+    <Helmet>
+    <title>For Investors - ICMA</title>
+    <meta name="description" content="Join ICMA's network of esteemed investors and gain access to curated investment opportunities that meet your criteria. Become a member for free today!" />
+    </Helmet>
     <Herosection/>
      <section className="relative h-[60vh] bg-cover bg-center bg-[url('https://fundmystartup.vc/wp-content/uploads/2023/06/image-1.png')] text-white">
         <div className=" z-0 absolute inset-0 bg-black bg-opacity-70"></div>

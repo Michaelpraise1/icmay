@@ -6,6 +6,7 @@ import Footer from '../component/Footer';
 import Herosection from '../component/Herosection';
 import Bottom from '../component/Bottom';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 
 const InputField = ({ label, value, onChange, placeholder, name, type }) => (
   <label className="flex flex-col">
@@ -101,6 +102,11 @@ const Contact = () => {
 
   return (
     <>
+    <Helmet>
+    <title>Contact Us - ICMA</title>
+    <meta name="description" content="Get in touch with ICMA for inquiries, support, or more information about our financial services and solutions. We're here to help!" />
+    </Helmet>
+    
     <Herosection/>
      <section className={`xl:mt-20 flex xl:flex-row  h-[100vh]  gap-3 overflow-hidden relative  bg-cover bg-center bg-[url('https://fundmystartup.vc/wp-content/uploads/2023/03/venture_05.jpg')]`}>
       <div className=" z-0 absolute inset-0 bg-black bg-opacity-70"></div>
