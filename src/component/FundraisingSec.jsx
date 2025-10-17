@@ -30,7 +30,7 @@ const FundraisingSec = () => {
           <FundraisingProps
             id="03"
             title="Pitchbook"
-            desc="There are two main types of Pitchbooks. There's the main Pitchbook, which contains all the key characteristics of the company, and one that details a specific deal, such as an initial public offering (IPO) or a company's investment product. For an accredited investor, it includes information such as the company's financial strength and biographical information about the management team."
+            desc="VC investments often require follow-up financing or an exit. Selling to a strategic partner can, for example, stimulate growth or create synergies. Therefore, we help identify potential investors and facilitate introductions, with services such as developing a communications strategy, approaching, and monitoring the process. We champion the vital pairing of capital and innovation."
             
           />
 
@@ -38,8 +38,13 @@ const FundraisingSec = () => {
 
           <FundraisingProps
             id="04"
-            title="Investor Outreach"
-            desc="After finalizing preparations and communication strategy, we arrange the first video call with our European partner, giving you the opportunity to share your story. Our role is to facilitate introductions and observe in the background. "
+            title="Unique and Specific"
+            desc="At icma we understand that every business is unique and has specific funding needs. That is why we offer a range of sustainable financial solutions that meet your growth objectives. Together we discuss which option best suits your business. For example, your company can issue securities via a Mini-IPO. In most cases, these are bonds or shares (certificates), but convertible bonds are also a possibility. After the securities have been issued, your company will be listed on a European Small and Medium Enterprise stock exchange.
+            
+            Assumptions Mini-IPO
+            Minimum three years in business, with at least one profitable year. A stable, future-proof organization with growth plans, strong governance, and liquid assets of at least €100k. In short, do you want to grow your business with funding from €1mln up to €5mln (and upwards) without prospectus approval? Then you have come to the right place, we offer companies access to our partners wealthy European investors. 
+            
+            Once the preparations and the communication strategy are complete, we'll assist to schedule the first video call with the most suitable European partner, so you can share your story. As a NFPO (Stichting) under the Dutch Civil Code, our role is to facilitate the introduction, prepare the CIM, assist with the application, and observe in the background. "
 
           />
 

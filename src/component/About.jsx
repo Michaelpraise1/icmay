@@ -12,20 +12,21 @@ const About = () => {
 
     <section className=" flex flex-col items-center  px-10 py-20 space-y-10 bg-[#22272a] text-white">
       <p>
-       The international capital management alliance fundación; statutory incorporated in The Netherlands in 2010 and fiscally established in Spain, as an independent private foundation focusing on international business development, connecting private companies that have expansion plans with relevant counterparties in Europe to facilitate market access and strategically grow their businesses. We are an experienced team of fundraising specialists built on the long-standing credibility of our members and consists of highly experienced professionals with significant collective investments across a wide range of sectors. We prioritise transparency, which is why we provide our privacy policy upon request. We take pride in guiding our clients towards the most responsible and beneficial funding solutions.  
+       Stichting international capital management alliance was formed in The Netherlands in 2010 and partly subject to the Spanish tax regime (EU-KOR) as an independent private foundation (icma fundación) focusing on international sustainable business development. We are on a mission to empower businesses that have expansion plans with relevant counterparties in Europe to facilitate market access, strategically grow, and introductions. With credible, and meaningful sustainable funding suggestions that are designed to drive environmental and commercial value at scale.
+  
+      </p>
+      <p>
+        We are an experienced team built on years of reliability and comprised of highly skilledprofessionals with significant experience across a wide range of sectors. Icma is proud to inform its clients to the most responsible and cost-effective flexible solutions available, designed as an alternative to traditional bank loans. The information we provided is for general informational purposes only and not a substitute for professional advice. This means you should consult a qualified financial advisor or lawyer for guidance specific to your situation.
       </p>
 
       <p>
-      Our commitment to clear communication throughout the entire process sets us apart, that's why its necessary to start every new funding procedure by drawing up a professional Pitchbook. It serves as a comprehensive guide, outlining the investment opportunity, its associated risks, and critical details that our European partners need to make informed decisions. We operate exclusively on a low-cost basis, meaning there are no additional costs owed to icma fundación after the Pitchbook is produced. Creating a spectacular, high resolution, ready to print Pitchbook costs a one-time fee of €1.650, payable in two equal instalments, with a 100% not satisfied money back guarantee! Icma's years of experience allow us to understand the needs of inventors, investors, entrepreneurs, and companies. Our partners play a critical role; providing funds, strategies, insights, and practical wisdom for wherever you are on your funding roadmap. They are big thinkers, risk takers, long term players, great connectors, game changers and change makers.
-
+      Our commitment to clear communication throughout the entire process sets us apart, that's why it is requisite to start every new funding procedure by drawing up a professional Pitchbook. It serves as a comprehensive guide, outlining the investment opportunity, its associated risks, and critical details that our European partners need to make informed decisions. We operate exclusively on a "no introduction, no fees" basis! This means that our office in Groningen will only charge costs for creating the Pitchbook after a successful introduction.
       </p>
+
 
       <p>
-        Our client onboarding acceptance is based on an evaluation of several factors to ensure a successful partnership. Key considerations include your past and present financial performance, the potential and strength of your current and future business prospects, your specific area of work and the extent to which it aligns with our expertise and experience, and the stability of your leadership. This assessment helps us determine if we are the best fit to support your company's needs and goals.
-      </p>
-      {/* <p>
-        Our client onboarding acceptance is based on an evaluation of several factors to ensure a successful partnership. Key considerations include your past and present financial performance, the potential and strength of your current and future business prospects, your specific area of work and the extent to which it aligns with our expertise and experience, and the stability of your leadership. This assessment helps us determine if we are the best fit to support your company's needs and goals.
-      </p> */}
+        Years of experience allow us to understand the needs of inventors, investors, entrepreneurs, and companies. Partners are indispensable, they play a critical role providing funds, strategies, insights, and practical wisdom for wherever you are on your funding roadmap. Our onboarding acceptance is based on an evaluation of several factors to ensure a successful partnership. Key considerations include past and present financial performance, the potential and strength of current and future social business prospects, specific area of work, stability of leadership, and the extent to which it aligns with our expertise and experience. This assessment helps us determine if we are the best fit to support your company's needs and goals.
+      </p> 
     </section>
     </>
    
