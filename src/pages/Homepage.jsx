@@ -7,7 +7,7 @@ import { FloatButton } from "antd";
 import Weem from "../component/Weem";
 import Hero from "../component/Hero";
 import Bottom from "../component/Bottom";
-import { Helmet } from "react-helmet-async";
+import { Helmet } from "react-helmet-async"
 
 
 const Homepage = () => {
