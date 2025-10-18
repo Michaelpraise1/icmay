@@ -6,8 +6,8 @@ import Stat from "../component/Stat";
 import { FloatButton } from "antd";
 import Weem from "../component/Weem";
 import Hero from "../component/Hero";
+import { Helmet } from "react-helmet-async";
 import Bottom from "../component/Bottom";
-import { Helmet } from "react-helmet-async"
 
 
 const Homepage = () => {
@@ -20,12 +20,9 @@ const Homepage = () => {
       <div className=" bg-white">
       <Herosection />
       <Hero/>
-      {/* <About /> */}
       <Services />
       <Weem/>
       <Stat />
-      {/* <Testimonials /> */}
-      {/* <Footer /> */}
       <Bottom/>
       <FloatButton.BackTop />
     </div>
