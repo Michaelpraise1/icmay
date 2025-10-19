@@ -30,7 +30,7 @@ const FundraisingSec = () => {
           <FundraisingProps
             id="03"
             title="Pitchbook"
-            desc="VC investments often require follow-up financing or an exit. Selling to a strategic partner can, for example, stimulate growth or create synergies. Therefore, we help identify potential investors and facilitate introductions, with services such as developing a communications strategy, approaching, and monitoring the process. We champion the vital pairing of capital and innovation."
+            desc="A Pitchbook, also called a Confidential Information Memorandum, is a company presentation (information layout) used by investment banks, finance firms, private investors, and business (stock) brokers advising on the sale or disposal of the shares or assets of a business. It consists of a careful arrangement and analysis of the investment considerations of the business and presented to interested parties with the aim of providing information necessary to make an informed decision. Many professionals contribute to a Pitchbook to create a high-quality presentation with the information needed to close a potential deal, it contains a comprehensive overview of a company, including financial data, market analysis, management, and product or service information."
             
           />
 
